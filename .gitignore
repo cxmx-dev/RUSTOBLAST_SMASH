@@ -1,0 +1,34 @@
+# Cargo
+/target/
+**/target/
+debug/
+**/*.rs.bk
+*.pdb
+
+docs/
+pics/
+build_log.txt
+*.code-workspace
+
+generate_boom.py
+generate_flash.py
+
+# Saves / play data
+SAVED GAMES - HIGHSCORES/
+**/savegame.json
+
+# Asset engine local backup snapshots
+Macroquad-Serde Asset Engine/backup/
+Macroquad-Serde Asset Engine/target/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log

@@ -1,0 +1,202 @@
+{
+    "pulse_speed": 5.0,
+    "global_rotation_speed": 0.0,
+    "parts": [
+        {
+            "type": "Triangle",
+            "v1": [
+                0.0,
+                -10.0,
+                0.0
+            ],
+            "v2": [
+                -7.0,
+                7.0,
+                0.0
+            ],
+            "v3": [
+                7.0,
+                7.0,
+                0.0
+            ],
+            "color": [
+                1.0,
+                0.0,
+                1.0,
+                1.0
+            ],
+            "z": 0.0
+        },
+        {
+            "type": "Line",
+            "start": [
+                -7.0,
+                7.0,
+                0.0
+            ],
+            "end": [
+                -10.0,
+                10.0,
+                0.0
+            ],
+            "thickness": 2.0,
+            "color": [
+                1.0,
+                0.0,
+                1.0,
+                1.0
+            ],
+            "z": 0.0
+        },
+        {
+            "type": "Line",
+            "start": [
+                7.0,
+                7.0,
+                0.0
+            ],
+            "end": [
+                10.0,
+                10.0,
+                0.0
+            ],
+            "thickness": 2.0,
+            "color": [
+                1.0,
+                0.0,
+                1.0,
+                1.0
+            ],
+            "z": 0.0
+        },
+        {
+            "type": "Line",
+            "start": [
+                -10.0,
+                10.0,
+                0.0
+            ],
+            "end": [
+                10.0,
+                10.0,
+                0.0
+            ],
+            "thickness": 2.0,
+            "color": [
+                1.0,
+                0.0,
+                1.0,
+                1.0
+            ],
+            "z": 0.0
+        },
+        {
+            "type": "Line",
+            "start": [
+                0.0,
+                -10.0,
+                0.0
+            ],
+            "end": [
+                0.0,
+                -15.0,
+                0.0
+            ],
+            "thickness": 3.0,
+            "color": [
+                1.0,
+                0.0,
+                1.0,
+                1.0
+            ],
+            "z": 0.0,
+            "animation": {
+                "speed": 10.0,
+                "amplitude": 25.0,
+                "offset": 0.0,
+                "anim_type": "VerticalTranslation"
+            }
+        },
+        {
+            "type": "Line",
+            "start": [
+                -5.0,
+                -10.0,
+                0.0
+            ],
+            "end": [
+                -5.0,
+                -20.0,
+                0.0
+            ],
+            "thickness": 2.0,
+            "color": [
+                1.0,
+                0.0,
+                1.0,
+                1.0
+            ],
+            "z": 0.0,
+            "animation": {
+                "speed": 10.0,
+                "amplitude": 25.0,
+                "offset": 0.0,
+                "anim_type": "VerticalTranslation"
+            }
+        },
+        {
+            "type": "Line",
+            "start": [
+                5.0,
+                -10.0,
+                0.0
+            ],
+            "end": [
+                5.0,
+                -20.0,
+                0.0
+            ],
+            "thickness": 2.0,
+            "color": [
+                1.0,
+                0.0,
+                1.0,
+                1.0
+            ],
+            "z": 0.0,
+            "animation": {
+                "speed": 10.0,
+                "amplitude": 25.0,
+                "offset": 0.0,
+                "anim_type": "VerticalTranslation"
+            }
+        },
+        {
+            "type": "Line",
+            "start": [
+                -5.0,
+                -10.0,
+                0.0
+            ],
+            "end": [
+                5.0,
+                -10.0,
+                0.0
+            ],
+            "thickness": 2.0,
+            "color": [
+                1.0,
+                0.0,
+                1.0,
+                1.0
+            ],
+            "z": 0.0,
+            "animation": {
+                "speed": 10.0,
+                "amplitude": 25.0,
+                "offset": 0.0,
+                "anim_type": "VerticalTranslation"
+            }
+        }
+    ]
+}
